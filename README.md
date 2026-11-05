@@ -28,23 +28,3 @@ Hold SHIFT while accepting the meme dialog to get the normal vanilla reroll.
 Every category can be toggled in Mod Settings. No save data: safe to add or remove mid-save.
 
 Requires Harmony and the Ideology DLC.</description>
-  <modDependencies>
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-    </li>
-  </modDependencies>
-  <loadAfter>
-    <li>brrainz.harmony</li>
-    <li>ludeon.rimworld.ideology</li>
-    <li>ludeon.rimworld.biotech</li>
-    <li>vanillaexpanded.vmemese</li>
-    <li>sarg.alphamemes</li>
-    <li>mlie.ducksnolimitsideology</li>
-    <li>lvlvbnh.rolesuntied</li>
-    <li>obama.idontlike.preferredxenolimit</li>
-    <li>minseo.spontaneousrituals</li>
-  </loadAfter>
-</ModMetaData>
